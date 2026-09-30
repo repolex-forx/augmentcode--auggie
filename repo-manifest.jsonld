@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/augmentcode/auggie/commit/9cc3ead419db9486ad44e6e4bba30ecd6784ccff",
       "git:hexsha": "9cc3ead419db9486ad44e6e4bba30ecd6784ccff",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v1.2.0-prerelease.202609300924"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.2.0-prerelease.202609300924",
+      "repolex:parsedAt": "2026-09-30T19:10:07.503313+00:00"
     },
     {
       "@id": "https://repolex.ai/r/augmentcode/auggie/commit/188902f8f09d2b7ad4ddce26622ae8eb246a3599",
