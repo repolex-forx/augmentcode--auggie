@@ -1,0 +1,11 @@
+{
+  "org": "augmentcode",
+  "repo": "auggie",
+  "versions": [
+    {
+      "commit": "9cc3ead419db9486ad44e6e4bba30ecd6784ccff",
+      "tag": "main",
+      "parsed_at": "2026-09-30T19:10:07.503961+00:00"
+    }
+  ]
+}
